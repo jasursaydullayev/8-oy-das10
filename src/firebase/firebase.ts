@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 import { GoogleAuthProvider, getAuth } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyAhlzIKvNMN-zTa_5QGbLiRz5z5PeWA26E",
-  authDomain: "fn12-d5f6b.firebaseapp.com",
+  apiKey: "AIzaSyArePF7Mg6jY-TgsC6YQXCjXyy0IkO9nKs",
+  authDomain: "fn12-a2d89.firebaseapp.com",
   databaseURL:
-    "https://fn12-d5f6b-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "fn12-d5f6b",
-  storageBucket: "fn12-d5f6b.appspot.com",
-  messagingSenderId: "680367164527",
-  appId: "1:680367164527:web:5d28ad34b2968816ce119a",
+    "https://fn12-a2d89-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "fn12-a2d89",
+  storageBucket: "fn12-a2d89.appspot.com",
+  messagingSenderId: "950734793744",
+  appId: "1:950734793744:web:a385720e6cc7494e4aee95"
 };
 const app = initializeApp(firebaseConfig);
 
